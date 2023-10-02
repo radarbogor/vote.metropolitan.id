@@ -3,8 +3,8 @@
 <footer class="text-light py-3" style="background-color: #00548F;">
     <div class="container text-md-left">
       <div class="row text-md-left pt-3">
-        <div class="col-md-6">
-          <img src="{{ asset('img/logo-radar-krwg.png') }}" alt="logo radar bogor" class="mb-2" style="width: 250px">
+        <div class="col-md-5">
+          <img src="{{ asset('img/logo-metro.png') }}" alt="logo radar bogor" class="mb-2" style="width: 250px">
           <hr>
           <h5>Graha Pena Bogor</h5>
           <div class="d-flex">
@@ -43,24 +43,21 @@
           </p>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-4">
           <h5 class="text-uppercase mb-4 fw-bold">Contact</h5>
           <hr>
           <p>
-            <i class="fas fa-envelope me-3"></i>redaksi@radar-bogor.com
+            <i class="fas fa-envelope me-3"></i>website.metropolitan@gmail.com
           </p>
           <p>
-            <i class="fas fa-phone me-3"></i>0251 754 4001
-          </p>
-          <p>
-            <i class="fab fa-whatsapp me-3"></i>0815 8302 200
+            <i class="fas fa-phone me-3"></i>0251-7534-040
           </p>
         </div>
         <hr>
         <div class="d-flex align-items-center">
             <p class="mb-0">&copy {{date('Y')}}
               <a href="#" style="text-decoration: none;">
-                <strong class="text-light">Radar Karawang</strong>
+                <strong class="text-light">Metropolitan</strong>
               </a>
             </p>
         </div>
