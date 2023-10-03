@@ -9,7 +9,7 @@
           <h5>Graha Pena Bogor</h5>
           <div class="d-flex">
             <i class="fas fa-map-marker-alt mt-1"></i>
-            <p class="ms-3">Jl KHR Abdullah Bin Nuh Jl. Ring Road Taman Yasmin No.30, RT.05/RW.04, Cibadak, Kec. Bogor Barat, Kota Bogor, Jawa Barat 16113.</p>
+            <p class="ms-3">Graha Pena Bogor Lantai 2 Jl. KH.R. Abdullah Bin Muhammad Nuh No 30 Taman Yasmin, Kota Bogor</p>
           </div>
         </div>
 
@@ -17,27 +17,27 @@
           <h5 class="text-uppercase mb-4 fw-bold">Social</h5>
           <hr>
           <p>
-            <a class="text-decoration-none text-light" href="https://www.youtube.com/channel/UCZ0d_a44D-aORvJze6V-0Kg" target="_blank">
+            <a class="text-decoration-none text-light" href="https://youtube.com/@MetropolitanTV" target="_blank">
               <i class="fab fa-youtube me-3"></i>Youtube
             </a>
           </p>
           <p>
-            <a class="text-decoration-none text-light" href="https://www.tiktok.com/@radarbogor" target="_blank">
+            <a class="text-decoration-none text-light" href="https://www.tiktok.com/@metropolitan.id" target="_blank">
               <i class="fab fa-tiktok me-3"></i>Tiktok
             </a>
           </p>
           <p>
-            <a class="text-decoration-none text-light" href="https://www.instagram.com/radar_bogor" target="_blank">
+            <a class="text-decoration-none text-light" href="https://instagram.com/harianmetropolitan" target="_blank">
               <i class="fab fa-instagram me-3"></i>Instagram
             </a>
           </p>
           <p>
-            <a class="text-decoration-none text-light" href="https://www.facebook.com/radar.bogor" target="_blank">
+            <a class="text-decoration-none text-light" href="https://www.facebook.com/klikmetropolitan" target="_blank">
               <i class="fab fa-facebook me-3"></i>Facebook
             </a>
           </p>
           <p>
-            <a class="text-decoration-none text-light" href="https://twitter.com/radarbogorID" target="_blank">
+            <a class="text-decoration-none text-light" href="https://twitter.com/metro__id" target="_blank">
               <i class="fab fa-twitter me-3"></i>Twitter
             </a>
           </p>
