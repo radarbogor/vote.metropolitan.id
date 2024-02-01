@@ -204,7 +204,7 @@
             <div class="row g-0 my-3">
                 <div class="col-md-3 d-flex justify-content-center">
                     {{-- Vote Thumbnail --}}
-                    <img src="{{ asset('storage/' . $pi->vote_image) }}" class=" img-thumbnail img_card"
+                    <img src="{{ asset('storage/' . $pi->vote_image) }}" class="img-thumbnail img_card"
                         alt="...">
                 </div>
                 <div class="col-md-9 d-grid align-items-center py-3 ps-md-3">
